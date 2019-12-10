@@ -4,3 +4,4 @@ Test repository to showcase ```git rebase``` and discuss the pros and cons of us
 
 > added to master once again
 > did something
+> did another thing
