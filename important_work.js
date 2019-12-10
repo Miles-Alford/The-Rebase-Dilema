@@ -6,5 +6,5 @@ print("it's a nice day")
 print("something")
 
 function something() {
-print("its magic")
+    print("its magic")
 }

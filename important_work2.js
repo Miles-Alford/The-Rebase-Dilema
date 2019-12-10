@@ -1,5 +1,5 @@
 function subtraction(x,y) {
-return x - y
+    return x - y
 }
 
-print('ouch')
+print("ouch")
