@@ -4,3 +4,7 @@ function addition(x,y){
 
 print("it's a nice day")
 print("something")
+
+function something() {
+print("its magic")
+}
