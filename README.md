@@ -6,3 +6,4 @@ Test repository to showcase ```git rebase``` and discuss the pros and cons of us
 > did something
 > did another thing
 > did another extra thing
+> did another more extra thing
